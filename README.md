@@ -12,5 +12,10 @@ Thank you.
 
 ## Permanence
 
-This acknowledgment website will be deployed on the Arweave blockchain,  
-so that this gratitude can be preserved and remembered permanently.
+This acknowledgment website is permanently stored on the Arweave blockchain.  
+Transaction ID: `JPuxffa9BZF9SnbFtK79If5tal-scNkOkDAYSKFF0Ec`
+
+You can verify and visit it via:
+
+- Viewblock: <https://viewblock.io/arweave/tx/JPuxffa9BZF9SnbFtK79If5tal-scNkOkDAYSKFF0Ec>  
+- Arweave Gateway: <https://arweave.net/JPuxffa9BZF9SnbFtK79If5tal-scNkOkDAYSKFF0Ec>
